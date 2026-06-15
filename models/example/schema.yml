@@ -1,0 +1,14 @@
+version: 2
+models:
+  - name: stay_score
+    columns:
+      - name: neighbourhood
+        tests: [unique, not_null]
+      - name: stay_score
+        tests: [not_null]
+      - name: neighbourhood_type
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['Hidden Gem', 'Premium / Central', 'Budget / Remote', 'Balanced']
