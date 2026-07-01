@@ -1,7 +1,7 @@
 <h1 align="center">🏙️ Smart Stay</h1>
 <p align="center">
   <b>A Berlin neighbourhood value &amp; connectivity advisor for short-term stays.</b><br>
-  Cloud-native data engineering capstone · Built on Google Cloud Platform
+  Cloud-native Data Engineering project · Built on Google Cloud Platform
 </p>
 
 <p align="center">
@@ -171,6 +171,6 @@ curl -X POST \
 
 ## 🎓 About
 
-Cloud-native data engineering capstone project, **SRH Heidelberg**.
+Cloud-native Data Engineering Project, **SRH Heidelberg**.
 
-<p align="center"><i>Built with GCP, Spark, dbt & Tableau.</i></p>
+<p align="center"><i>Built with GCP, Spark, dbt and Tableau.</i></p>
